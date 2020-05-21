@@ -7,7 +7,7 @@ This repository is the canonical source for REST API specifications for Microsof
 ## Getting started
 If you're a Microsoft employee looking for information about all of the repositories and steps in the pipeline, go to our [documentation](https://github.com/Azure/adx-documentation-pr/wiki) repository. Make sure to [join the Github Azure organization](http://aka.ms/azuregithub) to get access to that repo. 
 
-<b>Latest improvement:</b><i> Microsoft employees can try out our new experience at [OpenAPI Hub](https://aka.ms/openapihub) - online experience for using our validation tools and finding your workflow.</i>
+<b>Latest improvement:</b><i> Microsoft employees can try out our new experience atfdsffds [OpenAPI Hub](https://aka.ms/openapihub) - online experience for using our validation tools and finding your workflow.</i>
 
 External Contributors can get started [here](https://github.com/Azure/azure-rest-api-specs/blob/master/documentation/Getting%20started%20with%20OpenAPI%20specifications.md)
 
