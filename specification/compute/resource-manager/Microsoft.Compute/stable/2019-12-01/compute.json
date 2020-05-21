@@ -15,6 +15,7 @@
   "produces": [
     "application/json"
   ],
+  NEW APPI
   "security": [
     {
       "azure_auth": [
