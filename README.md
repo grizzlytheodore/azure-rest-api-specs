@@ -9,7 +9,7 @@ If you're a Microsoft employee looking for information about all of the reposito
 
 <b>Latest improvement:</b><i> Microsoft employees can try out our new experience at [OpenAPI Hub](https://aka.ms/openapihub) - online experience for using our validation tools and finding your workflow.</i>
 
-External Contributors can get started [here](https://github.com/Azure/azure-rest-api-specs/blob/master/documentation/Getting%20started%20with%20OpenAPI%20specifications.md)
+External Contributors can get started [here](https://g.com/Azure/azure-rest-api-specs/blob/master/documentation/Getting%20started%20with%20OpenAPI%20specifications.md)
 
 Please check the [announcements page](https://github.com/Azure/azure-rest-api-specs/wiki/Announcements) for any new updates since your last visit.
 
