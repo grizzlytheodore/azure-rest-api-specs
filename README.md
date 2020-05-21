@@ -25,7 +25,7 @@ The structure of the directory should strictly follow these rules:
 
 1. **'resource-manager' and 'data-plane' Folders**: the RPs can put specs in one of two categories: `resource-manager` (for ARM resources) and `data-plane` (for everything else) . The autorest configuration file (`readme.md`) for the RP should be inside this folder
 
-1. **'preview' and 'stable' Folders**: Varying levels of stability exist in our repository. Each API Version folder should be categorized as either still accepting breaking changes, or no longer accepting breaking changes. This is not a direct analog for whether or not an API Version has the "-preview" suffix or not. SDKs that are generated from 'preview' folder items should indicate to their customers in the most idiomatic way that breaking changes may still be coming.
+1. **'preview' and 'stable' Folders**: Varying levels of stability exist in our repository. Each API Version folder should be categorized as either still accepting breaking changesfdsafdsa, or no longer accepting breaking changes. This is not a direct analog for whether or not an API Version has the "-preview" suffix or not. SDKs that are generated from 'preview' folder items should indicate to their customers in the most idiomatic way that breaking changes may still be coming.
 
 1. **API versions**: this folder will be the direct child of the category folder. there will be one such folder per resource type or dataplane service version. This folder will contain the OpenAPI validation Specs (Swaggers previously) and the examples folder.
 
