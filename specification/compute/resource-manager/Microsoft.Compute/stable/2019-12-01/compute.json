@@ -22,6 +22,7 @@
       ]
     }
   ],
+  NEW APPIIIIII
   "securityDefinitions": {
     "azure_auth": {
       "type": "oauth2",
