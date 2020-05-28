@@ -1,4 +1,4 @@
-{
+e{
   "swagger": "2.0",
   "info": {
     "title": "ComputeManagementClient",
@@ -10,7 +10,7 @@
     "https"
   ],
   "consumes": [
-    "application/json"
+    "application/json"fdsafdsafesaf
   ],
   "produces": [
     "application/json"
